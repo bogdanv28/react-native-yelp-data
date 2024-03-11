@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jobs-app",
-    "slug": "jobs-app",
+    "name": "food-app",
+    "slug": "food-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
